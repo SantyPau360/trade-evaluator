@@ -1,4 +1,5 @@
 """
+Calculadora riesgo
 Qué tienes que calcular y mostrar con print:
 Riesgo en dinero: el capital multiplicado por el porcentaje de riesgo, dividido 100. (* y /)
 Distancia al stop y al objetivo: la resta entre los precios. (-)

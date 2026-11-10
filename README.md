@@ -8,7 +8,7 @@ Mi objetivo es practicar programación y aplicar algunos conceptos del trading m
 - Python
 
 ## 🚀 Estado del proyecto
-Primera versión de prueba. Es un proyecto de un solo archivo que puede recibir mejoras y nuevas funcionalidades en el futuro.
+Primera versión de prueba. Es un proyecto que puede recibir mejoras y nuevas funcionalidades en el futuro.
 
 ## 🎯 Objetivo
 Seguir aprendiendo Python y desarrollar herramientas que puedan ser útiles para el análisis de trading.
